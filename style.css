@@ -47,6 +47,13 @@ html, body{
   animation: drive 3s linear infinite;
 }
 
+.luigi {
+  position: absolute;
+  top: 90px;
+  left: 0;
+  animation: drive 4s linear infinite;
+}
+
 /*// KEYFRAMES //*/
 @keyframes drive {
   from {transform: translateX(0)}
